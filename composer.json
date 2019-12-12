@@ -1,13 +1,13 @@
 {
   "name": "abei2017/yii2-mini-program",
-  "description": "一个yii2的微信小程序SDK",
+  "description": "迫于小程序出了订阅消息,abei2017/yii2-mini-program已不再更新,在此基础上新加订阅消息",
   "type": "yii2-extension",
   "keywords": ["yii2","extension"],
   "license": "MIT",
   "authors": [
     {
-      "name": "abei",
-      "email": "abei@nai8.me"
+      "name": "snowball",
+      "email": "xueqiucheng@gmail.com"
     }
   ],
   "require": {

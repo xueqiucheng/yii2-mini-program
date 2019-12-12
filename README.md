@@ -1,1 +1,1 @@
-## 该库功能已经融入到 abei2017/yii2-wx 项目，更多支持。[abei2017/yii2-wx](https://github.com/abei2017/yii2-wx)
+迫于小程序出了订阅消息,abei2017/yii2-mini-program已不再更新,在此基础上新加订阅消息
