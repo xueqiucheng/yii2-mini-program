@@ -6,9 +6,9 @@
  * Time: 20:56
  */
 
-namespace abei2017\mini\core;
+namespace snowball\mini\core;
 
-use abei2017\mini\core\AccessToken;
+use snowball\mini\core\AccessToken;
 
 abstract class Driver {
 

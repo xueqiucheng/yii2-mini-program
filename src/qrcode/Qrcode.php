@@ -6,9 +6,9 @@
  * Time: 17:39
  */
 
-namespace abei2017\mini\qrcode;
+namespace snowball\mini\qrcode;
 
-use abei2017\mini\core\Driver;
+use snowball\mini\core\Driver;
 use Yii;
 use yii\httpclient\Client;
 

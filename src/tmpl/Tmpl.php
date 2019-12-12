@@ -1,6 +1,6 @@
 <?php
 /*
- * This file is part of the abei2017/yii2-mini-program.
+ * This file is part of the snowball/yii2-mini-program.
  *
  * (c) abei <abei@nai8.me>
  *
@@ -8,16 +8,16 @@
  * with this source code in the file LICENSE.
  */
 
-namespace abei2017\mini\tmpl;
+namespace snowball\mini\tmpl;
 
-use abei2017\mini\core\Driver;
+use snowball\mini\core\Driver;
 use Yii;
 use yii\httpclient\Client;
 
 /**
  * Class Tmpl.
  *
- * @package abei2017\mini\tmpl
+ * @package snowball\mini\tmpl
  */
 class Tmpl extends Driver {
     const API_SEND_TMPL = 'https://api.weixin.qq.com/cgi-bin/message/wxopen/template/send?access_token=';

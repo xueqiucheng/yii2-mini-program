@@ -1,6 +1,6 @@
 <?php
 /*
- * This file is part of the abei2017/yii2-mini-program.
+ * This file is part of the snowball/yii2-mini-program.
  *
  * (c) abei <abei@nai8.me>
  *
@@ -8,11 +8,11 @@
  * with this source code in the file LICENSE.
  */
 
-namespace abei2017\mini\pay;
+namespace snowball\mini\pay;
 
 /**
  * Notify API.
- * @package abei2017\mini\pay
+ * @package snowball\mini\pay
  * @author abei<abei@nai8.me>
  */
 class Notify {

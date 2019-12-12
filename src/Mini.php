@@ -1,6 +1,6 @@
 <?php
 /*
- * This file is part of the abei2017/yii2-mini-program.
+ * This file is part of the snowball/yii2-mini-program.
  *
  * (c) abei <abei@nai8.me>
  *
@@ -8,20 +8,20 @@
  * with this source code in the file LICENSE.
  */
 
-namespace abei2017\mini;
+namespace snowball\mini;
 
 use Yii;
 use yii\base\Component;
 use yii\httpclient\Client;
-use abei2017\mini\core\AccessToken;
-use abei2017\mini\pay\Pay;
-use abei2017\mini\qrcode\Qrcode;
-use abei2017\mini\tmpl\Tmpl;
+use snowball\mini\core\AccessToken;
+use snowball\mini\pay\Pay;
+use snowball\mini\qrcode\Qrcode;
+use snowball\mini\tmpl\Tmpl;
 
 /**
  * The bootstrap.
  *
- * @package abei2017\mini
+ * @package snowball\mini
  */
 class Mini extends Component {
 

@@ -6,7 +6,7 @@
  * Time: 17:53
  */
 
-namespace abei2017\mini\core;
+namespace snowball\mini\core;
 
 use Yii;
 use yii\httpclient;
